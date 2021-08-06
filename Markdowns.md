@@ -25,4 +25,4 @@ den = math.hypot(x)
 | content | more content | contentier |
 | more | shit | is happening |
 
-This is * italic * and this is ** bold ** and ~~not~~
+This is *italic* and this is **bold** and ~~not~~
