@@ -1,6 +1,6 @@
 # Learning Markdowns
 
-In this project we will develop 
+In this markdown, I'm using markdown syntax for later review
 
 ## Dependencies
 - OpenCV
@@ -25,4 +25,4 @@ den = math.hypot(x)
 | content | more content | contentier |
 | more | shit | is happening |
 
-This is *italic* and this is **bold** and ~~not~~
+This is *italic* and this is **bold** and ~~not~~ 
